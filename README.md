@@ -53,6 +53,11 @@ int main()
 }
 ```
 
+# Output:
+
+![image](https://github.com/user-attachments/assets/934b1c42-b53f-4965-8573-af2ccf70b0c6)
+
+
 # Conclusion:
 
 → We learnt about exception handling in C++.
